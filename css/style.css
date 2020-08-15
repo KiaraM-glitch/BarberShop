@@ -2413,6 +2413,10 @@ h3 {
   background-image: url(../img/banner/banner3.jpeg);
 }
 
+.about_bg {
+  background-image: url(../img/banner/new-banner.jpeg);
+}
+
 /* line 4, ../../Arafath/CL/CL september/205. Barber/HTML/scss/_bradcam.scss */
 .breadcam_bg_1 {
   background-image: url(../img/banner/banner3.jpeg);
